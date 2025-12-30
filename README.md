@@ -41,9 +41,8 @@
 <summary><b>Proyectos</b></summary>
  <br/>
   <ul>
-  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/"><img alt= "Pagina Interactiva"/a></li>
-  <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git"></a></li>
-  <li>Perfume amaderado</li>
+  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/">Pagina Interactiva</li>
+  <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">Juego tp Integrador</a></li>
   </ul>
  <br/>
   
