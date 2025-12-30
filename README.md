@@ -36,15 +36,40 @@
 </a>
 </p>
 
+<ul>
+  <li>
+    <h3>Creación de página web</h3>
+
+    <a href="https://TU-PAGINA-WEB.com" target="_blank">
+      <img src="imagen-computadora.png" alt="Proyecto creación de página web">
+    </a>
+
+    <br>
+
+    <a href="https://TU-PAGINA-WEB.com" target="_blank">
+      Juego tp Integrador
+    </a>
+  </li>
+</ul>
 
 
-<summary><b>Proyectos</b></summary>
- <br/>
+### <b>Proyectos</b>
   <ul>
-  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/"><img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWgxeW5pZ2NuOTltY29mM2RuZGJ2ZTU5MWR4bXRudDhtYmtkcjNkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XW9kx8pTs3HGfgjje4/giphy-preview.gif" width="250"></li>
-  <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">Juego tp Integrador</a></li>
+  <li>
+   <h3>Creacion de Página Web</h3>
+     <a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/">
+     <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWgxeW5pZ2NuOTltY29mM2RuZGJ2ZTU5MWR4bXRudDhtYmtkcjNkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XW9kx8pTs3HGfgjje4/giphy-preview.gif" width="250"
+     alt= "Proyecto creación de página web">
+   </a>
+  </li>
+   
+   <li>
+    <h3>Juego Progrado en Wollok</h3>
+    <a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">
+     <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wollok.png" alt = Juego programado en wollok">
+    </a>
+   </li>
   </ul>
- <br/>
   
   
   ### 🤝🏻 &nbsp;Connect with Me
