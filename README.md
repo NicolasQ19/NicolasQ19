@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Nicolas Quintana</h1>
 <p align="center">
- <img src="https://juncotic.com/wp-content/uploads/2016/09/animacion7.gif" width="1000">
+ <img src="https://static.wixstatic.com/media/97b295_3349dbcd7e284899be41466def110e11~mv2.gif" width="500">
 </p>
 
 
