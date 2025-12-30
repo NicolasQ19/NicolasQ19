@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Nicolas Quintana"></h1>
+<h1 align="center">Hola, soy Nicolas Quintana></h1>
 </div>
-<img src="[https://i.imgur.com/Wskj8cn.jpeg](https://images.ctfassets.net/3mv54pzvptwz/55YLwKPDnRXkqMBITRpWbC/0c2aefc04afa455c20e9ca0d209698e0/53174188191_42d4c831ae_o.jpg)">
+<img src="https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513-1536x768.jpg">
 
 ## Sobre mi
 
