@@ -4,7 +4,7 @@
 </p>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Conocimientos Tecnologicos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
