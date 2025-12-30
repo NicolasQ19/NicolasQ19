@@ -41,7 +41,7 @@
 <summary><b>Proyectos</b></summary>
  <br/>
   <ul>
-  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/">Pagina Interactiva</li>
+  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/"><img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWgxeW5pZ2NuOTltY29mM2RuZGJ2ZTU5MWR4bXRudDhtYmtkcjNkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XW9kx8pTs3HGfgjje4/giphy-preview.gif" width="250"></li>
   <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">Juego tp Integrador</a></li>
   </ul>
  <br/>
