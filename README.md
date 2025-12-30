@@ -17,14 +17,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![My Sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
 ![Kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -39,12 +39,13 @@
 
 
 <summary><b>Proyectos</b></summary>
-  <br/>
-   <a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/"><img alt= "Pagina Interactiva"/a>
-  <br/>
-  <br/>
-   <a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git"></a>
-  <br/>
+ <br/>
+  <ul>
+  <li><a href="https://695457f4fbab3ede3c1caabc--paginainteractiva1.netlify.app/"><img alt= "Pagina Interactiva"/a></li>
+  <li><a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git"></a></li>
+  <li>Perfume amaderado</li>
+  </ul>
+ <br/>
   
   
   ### 🤝🏻 &nbsp;Connect with Me
