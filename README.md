@@ -36,22 +36,6 @@
 </a>
 </p>
 
-<ul>
-  <li>
-    <h3>Creación de página web</h3>
-
-    <a href="https://TU-PAGINA-WEB.com" target="_blank">
-      <img src="imagen-computadora.png" alt="Proyecto creación de página web">
-    </a>
-
-    <br>
-
-    <a href="https://TU-PAGINA-WEB.com" target="_blank">
-      Juego tp Integrador
-    </a>
-  </li>
-</ul>
-
 
 ### <b>Proyectos</b>
   <ul>
