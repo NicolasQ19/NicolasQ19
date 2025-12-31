@@ -48,7 +48,7 @@
   </li>
    
    <li>
-    <h3>Juego Progrado en Wollok</h3>
+    <h3>Juego Programado en Wollok</h3>
     <a href="https://github.com/obj1-unahur-2025s2/TPGameIntegrador-los-pi-de-objetos.git">
      <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wollok.png" alt = Juego programado en wollok">
     </a>
